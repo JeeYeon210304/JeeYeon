@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-lightgreen?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=Spring&logoColor=#008000"/></a> &nbsp
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/></a> &nbsp 
@@ -28,7 +27,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
 </br>
-
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
+</br>
 </p>
 
- </br> </br> </br>
+ </br> </br> 
