@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Yeun%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Yeun%20%20&height=200&fontSize=100&background-color=#CCE1FF)
 <img src="https://capsule-render.vercel.app/api?type=wave & color=auto & reversal=true &height=300 & section=header	& text=capsule%20render & desc='👩 Hi, Here is Yeun's github'&textBg=true & fontSize=90 & fontColor=ffee00  & animation=fadeIn" />
   <h3 align="center">
     👩 Hi, Here is Yeun's github
