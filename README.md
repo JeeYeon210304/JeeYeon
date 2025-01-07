@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Yeun%20%20&height=200&fontSize=100)
+![header](https://github-readme-stats.vercel.app/api/top-langs/?username=yeun210304&langs_count=8)](https://github.com/yeun210304/github-readme-stats)
 <html>
 <body>
   <h3 align="center">
@@ -34,4 +35,4 @@
    </br> </br>
  </body>
  </html>
- ![footer](https://github-readme-stats.vercel.app/api/top-langs/?username=yeun210304&langs_count=8)](https://github.com/yeun210304/github-readme-stats)
+ 
