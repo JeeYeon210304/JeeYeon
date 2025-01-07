@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Yeun%20%20&height=200&fontSize=100)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text='👩 Hi, Here is Yeun's github'&fontSize=60" />
 <html>
 <body>
-  
   <h3 align="center">
     👩 Hi, Here is Yeun's github
     </br> </br> </br>
@@ -33,7 +31,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
     </br>
   </p>
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeun210304&show_icons=true&theme=radical)  
    </br> </br>     
  </body>
  </html>
