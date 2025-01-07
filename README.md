@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery&logoColor=#0769AD"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-lightgreen?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a> &nbsp
-<img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=Spring-green&logoColor=#008000"/></a> &nbsp
+<img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=Spring&logoColor=#008000"/></a> &nbsp
 <img src="https://img.shields.io/badge/Jsp-orange?style=flat-square&logo=Jsp&logoColor=#6DB33F"/></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=lightgrey"/></a> &nbsp
