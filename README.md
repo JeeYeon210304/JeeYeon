@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
 </br>
 <img src="https://img.shields.io/badge/dbeaver-lightgrey?style=flat-square&logo=dbeaver&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp 
 </p>
 
  </br> </br> </br>
