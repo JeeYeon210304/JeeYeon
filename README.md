@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Yeun%20%20&height=200&fontSize=100)
-<div style="background-color: #CCE1FF; padding: 10px;">
+![header](https://capsule-render.vercel.app/api?type=slice&color=#CCE1FF&text=%20Yeun%20%20&height=200&fontSize=100)
   
   <h3 align="center">
     👩 Hi, Here is Yeun's github
@@ -37,7 +36,6 @@
 <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=yeun210304&show_icons=true&theme=holi" width = "49%" height="130%" />   
  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeun210304&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 
-</div>
  
  
  
