@@ -22,7 +22,9 @@
 <img src="https://img.shields.io/badge/Oracle-ff69b4?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/ApacheTomcat-yellow?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
+</br>
 <img src="https://img.shields.io/badge/dbeaver-lightgrey?style=flat-square&logo=dbeaver&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Visual Studio Code-vilolet?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp 
 </p>
 
  </br> </br> </br>
