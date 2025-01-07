@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Yeun%20%20&height=200&fontSize=100)
-<html>
-<body>
   <h3 align="center">
     👩 Hi, Here is Yeun's github
     </br> </br> </br>
@@ -31,10 +29,11 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
     </br>
   </p>
+  
    </br> </br>
- </body>
-  [![footer](https://github-readme-stats.vercel.app/api/top-langs/?username=yeun210304&langs_count=8)]
- </html>
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeun210304&layout=compact)]
+
  
  
  
