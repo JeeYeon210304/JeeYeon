@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#CCE1FF&text=%20Yeun%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=blue&text=%20Yeun%20%20&height=200&fontSize=100)
   
   <h3 align="center">
     👩 Hi, Here is Yeun's github
