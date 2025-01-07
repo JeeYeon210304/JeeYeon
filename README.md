@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Yeun%20%20&height=200&fontSize=100)
 <html>
 <body>
-  <div style="background-color: #CCE1FF;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👩 Hi, Here is Yeun's github&fontSize=60" />
   <h3 align="center">
     👩 Hi, Here is Yeun's github
     </br> </br> </br>
@@ -33,7 +33,6 @@
     </br>
   </p>
   
-   </br> </br> 
-  </div>    
+   </br> </br>     
  </body>
  </html>
