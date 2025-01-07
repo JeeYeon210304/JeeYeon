@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=#7952B3"/></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/ApacheTomcat-yellow?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Oracle-ff69b4?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/ApacheTomcat-yellow?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
 </br>
