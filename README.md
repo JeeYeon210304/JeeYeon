@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
     </br>
   </p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeun210304&show_icons=true&theme=radical)  
    </br> </br>     
  </body>
  </html>
+ ![Yeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeun210304&show_icons=true&theme=radical)  
