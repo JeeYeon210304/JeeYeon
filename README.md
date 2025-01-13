@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/dbeaver-lightgrey?style=flat-square&logo=dbeaver&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a> &nbsp 
     </br>
+    <img src="https://img.shields.io/badge/REST%20API-lightgrey"></a> &nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a> &nbsp
     <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery&logoColor=#0769AD"/></a> &nbsp
