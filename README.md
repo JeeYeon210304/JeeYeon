@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Spring-lightgreen?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a> &nbsp
     <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=Spring&logoColor=#008000"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></a> &nbsp
     </br>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/></a> &nbsp 
