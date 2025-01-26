@@ -19,7 +19,6 @@
     </br>
     <img src="https://img.shields.io/badge/REST%20API-lightgrey"></a> &nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a> &nbsp
-    <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery&logoColor=#0769AD"/></a> &nbsp
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/CSS-9cf?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
